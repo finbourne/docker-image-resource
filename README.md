@@ -1,3 +1,5 @@
+![LUSID_by_Finbourne](./resources/Finbourne_Logo_Teal.svg)
+
 # Docker Image Resource
 
 Tracks and builds [Docker](https://docker.io) images.
